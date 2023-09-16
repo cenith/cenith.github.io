@@ -2,4 +2,11 @@
 title: "About"
 ---
 
-About this site
+# About Me
+
+Hello, I'm Cenith Amal!
+
+I am a passionate data scientist who loves working with data and solving complex problems. In my free time, I enjoy coding, hiking, and exploring new technologies.
+
+Feel free to reach out to me at cenithamal@gmail.com for collaboration or inquiries.
+
