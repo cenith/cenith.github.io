@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: .  # This will output the files to the root of the repository
 
 website:
   title: "cenith"
@@ -15,6 +16,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+
 
 
 
