@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+I'm Cenith Amal, currently a Master of Data Science Computational Linguistics (MDS-CL) student at UBC. Welcome to my personal website where I'll be sharing my journey in data science.
+

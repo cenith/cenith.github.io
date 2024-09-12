@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "cenith",
+    "title": "Welcome to My Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello World!\nMy name is Cenith Amal, and I’m excited to share my work with you. I’m currently a MDS Computational Linguistics student at UBC, exploring data science, machine learning, and more."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "About Me\nI’m Cenith Amal, currently a Master of Data Science Computational Linguistics (MDS-CL) student at UBC. Welcome to my personal website where I’ll be sharing my journey in data science."
   }
 ]

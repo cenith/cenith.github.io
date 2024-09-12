@@ -1,7 +1,7 @@
 ---
-title: "cenith"
+title: "Welcome to My Website"
 ---
 
-This is a Quarto website.
+# Hello World!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Cenith Amal, and I'm excited to share my work with you. I'm currently a MDS Computational Linguistics student at UBC, exploring data science, machine learning, and more.
